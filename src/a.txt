@@ -1,0 +1,6 @@
+切换到new_feature分支，添加新的功能，合并到主分支
+git checkout new_feature
+
+
+git branch -m new_feaure new_feature 重命名
+
